@@ -7,3 +7,7 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+Rake::Task["csv:destroy:everything"].invoke
+Rake::Task["reset:pk_sequence"].invoke
+Rake::Task["csv:import:everything"].invoke

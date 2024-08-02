@@ -1,5 +1,5 @@
 class Breed < ApplicationRecord
-  has_many :dogs
+  has_many :dogs, dependent: :destroy
 
   validates :coat_length, presence: true
   validates :coat_type, presence: true

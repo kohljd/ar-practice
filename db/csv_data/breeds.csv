@@ -1,0 +1,169 @@
+Breed,Group,Size,Coat,Length
+afghan hound,hound,large,silky,long
+akita,working,extra-large,double,medium
+alaskan malamute,working,large,double,medium
+american bulldog,stock,large,smooth,short
+american english coonhound,hound,large,smooth,short
+american eskimo dog,non-sporting,small,double,medium
+american foxhound,hound,large,smooth,short
+american staffordshire terrier,terrier,medium,smooth,short
+american water spaniel,sporting,medium,"double, curly",medium
+anatolian shepherd dog,working,extra-large,smooth,short
+australian cattle dog,herding,medium,"double, smooth",short
+australian kelpie,stock,medium,"double, smooth",short
+australian shepherd,herding,medium,double,medium
+australian terrier,terrier,small,"double, rough",medium
+basenji,hound,small,smooth,short
+basset hound,hound,medium,smooth,short
+beagle,hound,small,smooth,short
+bedlington terrier,terrier,small,curly,medium
+belgian malinois,herding,large,smooth,short
+belgian sheepdog,herding,large,double,medium
+belgian tervuren,herding,large,double,medium
+berger picard,herding,large,wiry,medium
+bernese mountain dog,working,extra-large,double,medium
+bichon frise,non-sporting,small,"double, curly",long
+bloodhound,hound,large,smooth,short
+bluetick coonhound,hound,large,smooth,short
+bohemian shepherd,stock,medium,"double, wavy",medium
+bolognese,stock,extra-small,wavy,long
+border collie,herding,medium,"double, wavy",medium
+border terrier,terrier,small,wiry,short
+boston terrier,non-sporting,small,smooth,short
+boxer,working,large,smooth,short
+braque francais pyrenean,stock,medium,smooth,short
+brittany,sporting,medium,"double, wavy",short
+bull terrier,terrier,medium,smooth,short
+bulldog,non-sporting,medium,smooth,short
+bullmastiff,working,extra-large,smooth,short
+cairn terrier,terrier,small,"double, wiry",medium
+canaan dog,herding,medium,"double, smooth",short
+cane corso,working,large,smooth,short
+cardigan welsh corgi,herding,small,double,medium
+carolina dog,stock,medium,smooth,short
+cavalier king charles spaniel,toy,small,"silky, wavy",medium
+chesapeake bay retriever,sporting,large,"wiry, wavy",medium
+chinook,working,large,smooth,medium
+chow chow,non-sporting,medium,"double, rough, smooth",medium
+cocker spaniel,sporting,small,"double, silky",long
+croatian sheepdog,stock,medium,"double, wavy",medium
+curly-coated retriever,sporting,large,"double, curly",short
+dalmatian,non-sporting,medium,smooth,short
+doberman pinscher,working,large,smooth,short
+dogue de bordeaux,working,extra-large,smooth,short
+dutch shepherd,miscellaneous,medium,double,short
+english foxhound,hound,large,double,short
+english setter,sporting,medium,"double, silky",medium
+english springer spaniel,sporting,medium,double,medium
+english toy spaniel,toy,small,"double, silky",medium
+entlebucher mountain dog,herding,medium,smooth,short
+estrela mountain dog,stock,large,"double, wavy",long
+field spaniel,sporting,medium,"smooth, wavy",medium
+finnish spitz,non-sporting,medium,double,medium
+flat-coated retriever,sporting,medium,smooth,medium
+french bulldog,non-sporting,small,smooth,short
+french spaniel,stock,medium,smooth,medium
+german longhaired pointer,stock,large,double,medium
+german pinscher,working,medium,smooth,short
+german shepherd,herding,large,double,medium
+german shorthaired pointer,sporting,medium,smooth,short
+german wirehaired pointer,sporting,medium,"double, wiry",medium
+giant schnauzer,working,large,"double, wiry",medium
+golden retriever,sporting,large,double,medium
+gordon setter,sporting,large,double,medium
+great dane,working,extra-large,smooth,short
+great pyrenees,working,extra-large,double,medium
+greater swiss mountain dog,working,extra-large,smooth,short
+greyhound,hound,large,smooth,short
+havanese,toy,small,"double, silky",long
+icelandic sheepdog,herding,medium,double,medium
+irish red and white setter,sporting,large,"double, silky",medium
+irish setter,sporting,large,silky,medium
+irish terrier,terrier,medium,"double, wiry",medium
+irish water spaniel,sporting,large,curly,medium
+irish wolfhound,hound,extra-large,wiry,medium
+italian greyhound,toy,small,smooth,short
+kai ken,miscellaneous,medium,double,medium
+karelian bear dog,stock,medium,double,medium
+kishu ken,stock,medium,double,short
+komondor,working,large,corded,long
+labrador retriever,sporting,large,double,short
+lakeland terrier,terrier,small,"double, wiry",short
+lapponian herder,stock,medium,double,short
+leonberger,working,extra-large,double,long
+maltese,toy,extra-small,silky,long
+manchester terrier,terrier,small,smooth,short
+manchester terrier (toy),toy,extra-small,smooth,short
+mastiff,working,extra-large,double,short
+miniature american shepherd,herding,medium,double,medium
+miniature bull terrier,terrier,small,smooth,short
+miniature pinscher,toy,extra-small,smooth,short
+miniature schnauzer,terrier,small,"double, wiry",medium
+neapolitan mastiff,working,extra-large,smooth,short
+newfoundland,working,extra-large,double,medium
+norfolk terrier,terrier,small,"double, wiry",short
+norwegian buhund,herding,medium,double,medium
+norwegian elkhound,hound,medium,double,medium
+norwegian lundehund,non-sporting,small,double,short
+norwich terrier,terrier,small,"double, wiry",short
+old english sheepdog,herding,large,double,long
+otterhound,hound,large,"double, rough",medium
+papillon,toy,extra-small,silky,medium
+parson russell terrier,terrier,small,"double, smooth",short
+pembroke welsh corgi,herding,small,double,short
+pharoah hound,hound,medium,smooth,short
+plott hound,hound,medium,smooth,short
+pointer,sporting,large,smooth,short
+pomeranian,toy,extra-small,double,long
+poodle,non-sporting,medium,curly,long
+poodle (miniature),non-sporting,small,curly,long
+poodle (toy),toy,extra-small,curly,long
+portuguese pointer,stock,medium,smooth,short
+portuguese sheepdog,stock,medium,wavy,long
+portuguese water dog,working,medium,"curly, wavy",long
+pug,toy,small,smooth,short
+pyrenean mastiff,stock,extra-large,double,medium
+pyrenean shepherd,herding,medium,"rough, smooth",medium
+rafeiro do alentejo,stock,large,double,short
+rat terrier,terrier,small,smooth,short
+rhodesian ridgeback,hound,large,smooth,short
+rottweiler,working,large,smooth,short
+russell terrier,terrier,small,"wiry, smooth",short
+saint bernard,working,extra-large,"double, smooth, rough",short
+saluki,hound,large,smooth,short
+samoyed,working,medium,double,long
+scottish deerhound,hound,extra-large,"double, wiry",medium
+scottish terrier,terrier,small,"double, wiry",medium
+shar-pei,non-sporting,medium,smooth,short
+shetland sheepdog,herding,small,double,long
+shiba inu,non-sporting,small,double,short
+shih tzu,toy,small,double,long
+siberian husky,working,medium,double,medium
+slovakian wirehaired pointer,stock,medium,wiry,short
+small munsterlander,miscellaneous,medium,double,medium
+smooth fox terrier,terrier,small,smooth,short
+spanish mastiff,stock,extra-large,"double, smooth",short
+spanish water dog,herding,medium,"corded, curly",medium
+staffordshire bull terrier,terrier,medium,smooth,short
+standard schnauzer,working,medium,"double, wiry",medium
+sussex spaniel,sporting,medium,double,medium
+swedish lapphund,stock,medium,double,long
+swedish vallhund,herding,small,double,short
+taiwan dog,stock,medium,smooth,short
+tibetan mastiff,working,extra-large,double,medium
+tibetan spaniel,non-sporting,small,double,medium
+tibetan terrier,non-sporting,small,double,long
+tornjak,stock,large,double,medium
+tosa,stock,large,"double, smooth",short
+toy fox terrier,toy,extra-small,smooth,short
+transylvanian hound,stock,medium,smooth,short
+vizsla,sporting,medium,smooth,short
+weimaraner,sporting,large,smooth,short
+welsh springer spaniel,sporting,medium,double,medium
+welsh terrier,terrier,small,"double, wiry",medium
+west highland white terrier,terrier,small,double,medium
+whippet,hound,medium,smooth,short
+wire fox terrier,terrier,small,"double, wiry",medium
+wirehaired pointing griffon,sporting,medium,"double, wiry",medium
+wirehaired vizsla,sporting,medium,wiry,short
+yorkshire terrier,toy,extra-small,silky,long
