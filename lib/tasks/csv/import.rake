@@ -3,7 +3,23 @@ require "csv"
 namespace :csv do
   namespace :import do
     desc "Import all data from CSV's"
-    task everything: [:breeds, :dogs, :owners]
+    task everything: [:breeds, :dogs, :owners, :questions]
+
+    desc "Import questions data"
+    task questions: :environment do
+      CSV.foreach("db/csv_data/questions.csv", headers: true) do |row|
+        question_data = {
+          prompt: row["Query Prompt"],
+          number: row["Number"],
+          key_words: row["key_words"],
+          answer: row["Answer"]
+        }
+
+        Question.create!(question_data)
+      end
+
+      puts "Questions imported"
+    end
 
     desc "Import breed data"
     task breeds: :environment do

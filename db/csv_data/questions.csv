@@ -1,0 +1,18 @@
+Query Prompt,Number,key_words,Answer
+List all breeds,1,all,Breed.all
+List all breeds in the working group,2,where,"Breed.where(group: ""working"")"
+List all extra-large breeds,3,where,"Breed.where(size: ""extra-large"")"
+List all small and large breeds,4,where,"Breed.where(size: [""small"", ""large""])"
+List all breeds that are medium size and part of the hound group,5,where,"Breed.where(size: ""medium"", group: ""hound"")"
+Order breeds alphabetically by breed size,6,order,Breed.order(:size)
+List all breeds that include double in their coat type description,7,where,"Breed.where(""coat_type LIKE ?"", ""%double%"")"
+List all breeds without double in their coat type description,8,"not, where","Breed.where.not(""coat_type LIKE ?"", ""%double%"")"
+List breeds in the miscellaneous group with a short coat length,9,where,"Breed.where(group: ""miscellaneous"", coat_length: ""short"")"
+Return the total number of breeds,10,count,Breed.count
+Return the total number of breeds in the sporting group,11,"count, where","Breed.where(group: ""sporting"").count"
+Return the total number of small and medium size breeds,12,"count, where","Breed.where(size: [""small"", ""medium""]).count"
+Return the total number of breeds with 'smooth' in their coat type description,13,"count, not, where","Breed.where(""coat_type LIKE ?"", ""%smooth%"").count"
+Return the total number of breeds without 'wiry' in their coat type description,14,"count, where","Breed.where.not(""coat_type LIKE ?"", ""%wiry%"").count"
+List all breeds in reverse alphabetical order,15,order,Breed.order(name: :desc)
+List only breeds' names,16,pluck,Breed.pluck(:name)
+List total number of breeds in each breed group,17,"count, group",Breed.group(:group).count

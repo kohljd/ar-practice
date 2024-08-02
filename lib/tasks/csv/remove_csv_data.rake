@@ -8,6 +8,8 @@ namespace :csv do
       puts "Breeds & dogs destroyed"
       Owner.destroy_all
       puts "Owners destroyed"
+      Question.destroy_all
+      puts "Questions destroyed"
     end
   end
 end
