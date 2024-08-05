@@ -1,0 +1,10 @@
+<h1>Questions</h1>
+
+<table>
+  <% @questions.each do |question| %>
+  <tr class="question">
+    <td><%= question.number %>. </td>
+    <td><%= link_to question.prompt, question_path(question.id) %> </td>
+  </tr>
+  <% end %>
+</table>
