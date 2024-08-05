@@ -36,6 +36,11 @@ RSpec.configure do |config|
   # Factory bot
   config.include FactoryBot::Syntax::Methods
 
+  # For system tests
+  config.before(:each, type: :system) do
+    driven_by :rack_test
+  end
+
   # Remove this line if you're not using ActiveRecord or ActiveRecord fixtures
   config.fixture_paths = [
     Rails.root.join("spec/fixtures")
