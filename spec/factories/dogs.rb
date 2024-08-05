@@ -1,8 +1,11 @@
 FactoryBot.define do
   factory :dog do
-    name { "MyString" }
-    age { 1 }
-    breed { nil }
-    owner { nil }
+    name { "Max" }
+    age { 5 }
+    breed
+
+    trait :with_owner do
+      owner
+    end
   end
 end
